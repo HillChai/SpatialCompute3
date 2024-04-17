@@ -3,4 +3,4 @@
 * 屏幕中黄色字幕提示当前ARKit追踪质量，没有字幕时表示一切正常
 * 创建文件夹后，拍照，点击下载按钮，即可保存照片及对应位姿信息到本地文件夹中
 
-![Example gif](https://github.com/HillChai/SpacialCompute/blob/noNavigationInterface/noNavigation.gif)
+![Example gif](https://github.com/HillChai/SpatialCompute3/blob/SnapshotInARView/SnapshotInView.gif)
